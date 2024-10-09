@@ -1,0 +1,2 @@
+# autotype
+for typing
